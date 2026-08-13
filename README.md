@@ -1,2 +1,2 @@
-**# Sistema de Gestión de Inventarios**
-si sirve
+# Sistema de Gestión de Inventarios
+*si sirve*
